@@ -1,2 +1,2 @@
-# Merge-Sort-Algorithm---C#
+# Merge-Sort-Algorithm
  
